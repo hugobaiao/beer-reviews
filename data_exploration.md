@@ -1,7 +1,5 @@
 # Data Exploration
 
-First look, total unique:
-
 Total Reviews: 1 586 614
 
 Unique Beers: 66055
