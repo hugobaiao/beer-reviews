@@ -1,4 +1,5 @@
 Beer Rating Analysis Project
+Dataset: BeerReviews on Kaggle
 Overview
 This project analyzes a comprehensive dataset of 1.5+ million beer reviews to address the age-old question: what truly makes a great beer? By examining ratings across different styles, breweries, and alcohol content levels, we uncover patterns in beer preferences and identify top performers in the craft beer world.
 Dataset
